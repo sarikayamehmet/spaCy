@@ -1,3 +1,5 @@
+Türkçe desteği ekleme işini yaparsak güzel olur @mas?
+
 spaCy: Industrial-strength NLP
 ******************************
 
